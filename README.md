@@ -149,3 +149,9 @@ o课程ID (CourseID)
 o成绩 (Grade)
 
 <h3>ER图</h3>
+
+![images](imges/图片1.png "学生和班级")<br/>
+![images](imges/图片2.png "学生和专业")<br/>
+![images](imges/图片3.png "教师课程组课程")<br/>
+![images](imges/图片4.png "课程专业教室")<br/>
+![images](imges/图片5.png "all")<br/>
